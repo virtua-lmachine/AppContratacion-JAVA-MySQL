@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Git4Idea" />
+    <plugin id="com.ai.dev.tools.languagePack.es" />
+    <plugin id="com.intellij.java" />
+    <plugin id="com.intellij.java.ide" />
+    <plugin id="com.intellij.jsonpath" />
+    <plugin id="com.intellij.modules.json" />
+    <plugin id="com.intellij.spring.boot" />
+    <plugin id="com.intellij.spring.boot.initializr" />
+    <plugin id="com.jetbrains.codeWithMe" />
+    <plugin id="intellij.prettierJS" />
+    <plugin id="org.jetbrains.idea.maven" />
+    <plugin id="org.jetbrains.plugins.github" />
+    <plugin id="org.jetbrains.plugins.yaml" />
+    <plugin id="org.localization4idea.es" />
+  </component>
+</project>
